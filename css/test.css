@@ -1,0 +1,13 @@
+td {
+    padding:4px;
+    margin:4px;
+    align-content: center;
+}
+
+thead {
+    background-color: darkgrey;
+}
+
+th {
+    text-align:center;
+}
